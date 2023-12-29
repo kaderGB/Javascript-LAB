@@ -1,0 +1,11 @@
+
+//to continue
+
+setTimeout(()=>{
+    console.log(`hello`);
+    setTimeout(()=>{
+        console.log(`Bonjour`);
+    },4000);
+    setTimeout(()=>{
+        console.log(`Bonjour`);
+},4000);
