@@ -1,0 +1,1 @@
+Destructing allows us to unpak values from data-structures (array, object) into separate distincts variables. 
